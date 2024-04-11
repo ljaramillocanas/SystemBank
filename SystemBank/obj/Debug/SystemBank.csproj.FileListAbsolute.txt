@@ -1,0 +1,7 @@
+F:\CURSO .NET\Repos\SystemBank\SystemBank\bin\Debug\SystemBank.exe.config
+F:\CURSO .NET\Repos\SystemBank\SystemBank\bin\Debug\SystemBank.exe
+F:\CURSO .NET\Repos\SystemBank\SystemBank\bin\Debug\SystemBank.pdb
+F:\CURSO .NET\Repos\SystemBank\SystemBank\obj\Debug\SystemBank.csproj.AssemblyReference.cache
+F:\CURSO .NET\Repos\SystemBank\SystemBank\obj\Debug\SystemBank.csproj.CoreCompileInputs.cache
+F:\CURSO .NET\Repos\SystemBank\SystemBank\obj\Debug\SystemBank.exe
+F:\CURSO .NET\Repos\SystemBank\SystemBank\obj\Debug\SystemBank.pdb
